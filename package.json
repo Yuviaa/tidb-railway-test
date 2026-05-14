@@ -1,0 +1,10 @@
+{
+  "name": "tidb-railway-test",
+  "version": "1.0.0",
+  "dependencies": {
+    "mysql2": "^3.9.0"
+  },
+  "scripts": {
+    "start": "node test.js"
+  }
+}
